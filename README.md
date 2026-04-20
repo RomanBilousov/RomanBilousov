@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Roman Bilousov banner with role and focus areas" />
+</p>
+
 <h1 align="center">Roman Bilousov</h1>
 
 <p align="center">
@@ -5,7 +9,7 @@
 </p>
 
 <p align="center">
-  CRM systems · internal tools · AI workflows · Next.js · TypeScript · Python · Supabase
+  CRM systems · internal tools · AI workflows
 </p>
 
 <p align="center">
@@ -19,6 +23,8 @@
 I build internal tools, CRM/ERP systems, AI-powered workflows, and automation products for founders and small teams.
 
 My work sits between product thinking and software engineering: I take messy manual processes, turn them into clear system flows, integrate the right APIs, and ship tools people actually use day to day.
+
+> Building business systems that reduce manual work without adding operational chaos.
 
 ## What I Build
 
@@ -53,12 +59,14 @@ My work sits between product thinking and software engineering: I take messy man
   <img src="https://img.shields.io/badge/Telegram-1F2937?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
-## Representative Work
+## Selected Systems
 
-- **Sales and operations platform** with inventory, invoices, role-based access, and CRM sync
-- **Medical e-commerce platform** with payments, logistics, admin workflows, and AI chat
-- **Voice and chat automation systems** for lead capture, scheduling, and support
-- **Internal research, documentation, and lead-generation tools** for day-to-day business use
+| System | Scope |
+| --- | --- |
+| Sales operations platform | Inventory, invoices, role-based access, and CRM sync |
+| Medical e-commerce platform | Payments, logistics, admin workflows, and AI chat |
+| Voice and chat automation | Lead capture, scheduling, and support |
+| Internal research tools | Documentation, lead generation, and day-to-day workflows |
 
 ## Background
 
