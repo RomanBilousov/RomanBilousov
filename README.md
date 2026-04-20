@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://reelixy.com">website</a> ·
-  <a href="https://www.linkedin.com/in/bilousov">linkedin</a> ·
-  <a href="https://t.me/bilousov_roman">telegram</a>
+  <a href="https://reelixy.com">Reelixy</a> ·
+  <a href="https://www.linkedin.com/in/bilousov">LinkedIn</a> ·
+  <a href="https://t.me/bilousov_roman">Telegram</a>
 </p>
 
 ---
@@ -53,14 +53,20 @@ My work sits between product thinking and software engineering: I take messy man
   <img src="https://img.shields.io/badge/Telegram-1F2937?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
-## Representative Work
+## Selected Public Work
 
-| System | Scope |
+If you want the quickest read on how I build, start with
+[`Archivox`](https://github.com/RomanBilousov/Archivox),
+[`codex-telegram-brain`](https://github.com/RomanBilousov/codex-telegram-brain),
+and [`bobik-tamagotchi`](https://github.com/RomanBilousov/bobik-tamagotchi).
+
+| Repository | What it shows |
 | --- | --- |
-| Sales and operations platform | Inventory, invoices, role-based access, and CRM sync |
-| Medical e-commerce platform | Payments, logistics, admin workflows, and AI chat |
-| Voice and chat automation systems | Lead capture, scheduling, and support |
-| Internal research and lead-generation tools | Documentation, lead generation, and day-to-day workflows |
+| [`Archivox`](https://github.com/RomanBilousov/Archivox) | Local-first transcription for private media folders, one-command install, background helpers, and polished operator docs |
+| [`codex-telegram-brain`](https://github.com/RomanBilousov/codex-telegram-brain) | Local multi-agent Telegram runtime built around Codex CLI, operator workflows, and a local web runtime |
+| [`bobik-tamagotchi`](https://github.com/RomanBilousov/bobik-tamagotchi) | Browser game with React, Three.js, Supabase auth, persistence, and leaderboard mechanics |
+| [`RomanBilousov_n8n`](https://github.com/RomanBilousov/RomanBilousov_n8n) | Sanitized n8n starter workflows for webhooks and automation prototyping |
+| [`agent-landing`](https://github.com/RomanBilousov/agent-landing) | Public GitHub Pages landing page for a WhatsApp, Notion, and Stripe flow |
 
 ## Background
 
