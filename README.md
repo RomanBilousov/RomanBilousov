@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  CRM systems · internal tools · AI workflows
+  CRM systems · internal tools · AI workflows · Next.js · TypeScript · Python · Supabase
 </p>
 
 <p align="center">
@@ -16,15 +16,17 @@
 
 ---
 
-I build practical software for operations, sales, and day-to-day business processes. My work turns messy manual workflows into clear systems that teams actually use.
+I build internal tools, CRM/ERP systems, AI-powered workflows, and automation products for founders and small teams.
+
+My work sits between product thinking and software engineering: I take messy manual processes, turn them into clear system flows, integrate the right APIs, and ship tools people actually use day to day.
 
 ## What I Build
 
-- **CRM and ERP systems** for operations, sales, and internal workflows
-- **Internal tools** for teams that need one place to work clearly
-- **AI-assisted workflows** that fit existing processes instead of breaking them
-- **Client-facing web products** with real business use, not just demos
-- **Integrations** across APIs, messaging, payments, and operations
+- **Custom CRM and ERP systems** for operations, sales, and internal workflows
+- **Internal tools** that replace spreadsheet-heavy and fragmented processes
+- **AI workflows and automation systems** that fit existing operations instead of breaking them
+- **Client-facing products** tied to real business use, not just demos
+- **Integrations** across APIs, messaging, payments, logistics, and operations
 
 ## Focus Areas
 
@@ -51,6 +53,13 @@ I build practical software for operations, sales, and day-to-day business proces
   <img src="https://img.shields.io/badge/Telegram-1F2937?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
+## Representative Work
+
+- **Sales and operations platform** with inventory, invoices, role-based access, and CRM sync
+- **Medical e-commerce platform** with payments, logistics, admin workflows, and AI chat
+- **Voice and chat automation systems** for lead capture, scheduling, and support
+- **Internal research, documentation, and lead-generation tools** for day-to-day business use
+
 ## Background
 
 Over the last few years, I have built and shipped systems across sales operations, healthcare, e-commerce, automation, and internal workflows. Many of these projects were previously packaged under the Reelixy brand. Today I focus on building practical software end-to-end as an independent developer.
@@ -60,3 +69,4 @@ Over the last few years, I have built and shipped systems across sales operation
 - Clear system thinking over hype
 - Practical delivery over generic automation promises
 - Software that helps teams move faster without adding operational chaos
+- Business systems with clear value, not "AI for everything"
