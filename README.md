@@ -55,10 +55,12 @@ My work sits between product thinking and software engineering: I take messy man
 
 ## Representative Work
 
-- **Sales and operations platform** with inventory, invoices, role-based access, and CRM sync
-- **Medical e-commerce platform** with payments, logistics, admin workflows, and AI chat
-- **Voice and chat automation systems** for lead capture, scheduling, and support
-- **Internal research, documentation, and lead-generation tools** for day-to-day business use
+| System | Scope |
+| --- | --- |
+| Sales and operations platform | Inventory, invoices, role-based access, and CRM sync |
+| Medical e-commerce platform | Payments, logistics, admin workflows, and AI chat |
+| Voice and chat automation systems | Lead capture, scheduling, and support |
+| Internal research and lead-generation tools | Documentation, lead generation, and day-to-day workflows |
 
 ## Background
 
