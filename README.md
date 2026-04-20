@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  CRM systems · internal tools · AI workflows · Next.js · TypeScript · Python · Supabase
+  CRM systems · internal tools · AI workflows · React / Next.js · TypeScript · Python · Supabase / PostgreSQL
 </p>
 
 <p align="center">
@@ -42,15 +42,15 @@ My work sits between product thinking and software engineering: I take messy man
 ## Core Stack
 
 <p>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-1F2937?style=flat-square&logo=vite&logoColor=FFD62E" alt="Vite" />
   <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-374151?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=10B981" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-4B5563?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Telegram-1F2937?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
 ## Selected Public Work
