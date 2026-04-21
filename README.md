@@ -66,7 +66,6 @@ and [`bobik-tamagotchi`](https://github.com/RomanBilousov/bobik-tamagotchi).
 | [`codex-telegram-brain`](https://github.com/RomanBilousov/codex-telegram-brain) | Local multi-agent Telegram runtime built around Codex CLI, operator workflows, and a local web runtime |
 | [`bobik-tamagotchi`](https://github.com/RomanBilousov/bobik-tamagotchi) | Browser game with React, Three.js, Supabase auth, persistence, and leaderboard mechanics |
 | [`RomanBilousov_n8n`](https://github.com/RomanBilousov/RomanBilousov_n8n) | Sanitized n8n starter workflows for webhooks and automation prototyping |
-| [`agent-landing`](https://github.com/RomanBilousov/agent-landing) | Public GitHub Pages landing page for a WhatsApp, Notion, and Stripe flow |
 
 ## Background
 
